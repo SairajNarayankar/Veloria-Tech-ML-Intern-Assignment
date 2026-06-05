@@ -102,6 +102,8 @@ python scraper.py
 ```
 
 **Output:** Console progress logs + `match_data.csv` in working directory
+<img width="524" height="532" alt="image" src="https://github.com/user-attachments/assets/3eb279aa-2111-4b21-9e5c-998d02073a42" />
+
 
 ---
 
@@ -171,6 +173,8 @@ python model.py
 ```
 
 **Output:** Step-by-step progress + detailed evaluation report with real vs. predicted comparison
+<img width="589" height="367" alt="image" src="https://github.com/user-attachments/assets/ac9bc705-3405-4f57-98f9-cf2a167b927e" />
+
 
 ---
 
@@ -235,6 +239,8 @@ Step 4 │ SEMANTIC SEARCH
 ```bash
 python rag_search.py
 ```
+<img width="1612" height="667" alt="image" src="https://github.com/user-attachments/assets/bd0b956d-bb82-47fc-bb9f-19bcf92e5f19" />
+
 
 **Interactive Mode** — Live terminal prompt:
 ```
